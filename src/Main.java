@@ -19,7 +19,7 @@ public class Main extends ConsoleProgram {
 
         // Example program: prompt user and print greeting
         String name = readLine("Enter your name: ");
-        println("Hello, " + name + "!");
+        println("Hello Hello Hello, " + name + "!");
 
         // === END OF YOUR CODE ===
     }
@@ -32,3 +32,4 @@ public class Main extends ConsoleProgram {
         new Main().run(); // Leave this alone — it runs your program
     }
 }
+
