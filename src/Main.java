@@ -19,7 +19,7 @@ public class Main extends ConsoleProgram {
 
         // Example program: prompt user and print greeting
         String name = readLine("Enter your name: ");
-        println("Hello Hello Hello, " + name + "!");
+        println("Hello Hello, " + name + "!");
 
         // === END OF YOUR CODE ===
     }
